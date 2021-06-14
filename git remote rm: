@@ -1,0 +1,3 @@
+$ git remote remove paul
+$ git remote
+origin
