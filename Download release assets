@@ -1,0 +1,11 @@
+# download all assets from a specific release
+$ gh release download v1.2.3
+
+# download only Debian packages for the latest release
+$ gh release download --pattern '*.deb'
+
+# specify multiple file patterns
+$ gh release download -p '*.deb' -p '*.rpm'
+  -D, --dir string            The directory to download files into (default ".")
+  -p, --pattern stringArray   Download only assets that match a glob pattern
+  
