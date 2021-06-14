@@ -1,0 +1,5 @@
+# Create a repository in your organization
+~/Projects/my-project$ gh repo create org/repo
+✓ Created repository org/repo on GitHub
+✓ Added remote https://github.com/org/repo.git
+~/Projects/my-project$
