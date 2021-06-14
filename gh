@@ -1,0 +1,4 @@
+gh repo create
+✓ Created repository user/my-project on GitHub
+✓ Added remote https://github.com/user/my-project.git
+~/Projects/my-project$
