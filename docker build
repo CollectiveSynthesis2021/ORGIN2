@@ -1,0 +1,7 @@
+Run docker build . --file Dockerfile --tag localbuild/testimage:latest
+  docker build . --file Dockerfile --tag localbuild/testimage:latest
+  shell: /usr/bin/bash -e {0}
+Error response from daemon: dockerfile parse error line 1: unknown instruction: DOCKER
+Sending build context to Docker daemon  320.5kB
+
+Error: Process completed with exit code 1.
