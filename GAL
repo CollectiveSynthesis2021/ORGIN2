@@ -1,0 +1,4 @@
+curl -X GET "https://api.cloudflare.com/client/v4/accounts/699d98642c564d2e855e9661899b7252/gateway/lists" \
+     -H "X-Auth-Email: user@example.com" \
+     -H "X-Auth-Key: c2547eb745079dac9320b638f5e225cf483cc5cfdda41" \
+     -H "Content-Type: application/json"
