@@ -1,0 +1,12 @@
+ 0 : 7d        StackCheck
+ 1 : 1c 02     Ldar a1
+ 3 : 28 03 02  Add a0, [2]
+ 6 : 1d fa     Star r0
+ 8 : 1c 02     Ldar a1
+10 : 4f 03 03  TestGreaterThan a0, [3]
+13 : 74 09     JumpIfFalse [9] (@22)
+15 : 1c 02     Ldar a1
+17 : 29 03 04  Sub a0, [4]
+20 : 1d fa     Star r0
+22 : 1c fa     Ldar r0
+24 : 81        Return
