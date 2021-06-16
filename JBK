@@ -1,0 +1,41 @@
+23s
+Run docker run \
+Unable to find image 'jekyll/builder:latest' locally
+latest: Pulling from jekyll/builder
+cbdbe7a5bc2a: Pulling fs layer
+aa8ae8202b42: Pulling fs layer
+b21786fe7c0d: Pulling fs layer
+68296e6645b2: Pulling fs layer
+6b1c37303e2d: Pulling fs layer
+787be8e21c02: Pulling fs layer
+68296e6645b2: Waiting
+6b1c37303e2d: Waiting
+787be8e21c02: Waiting
+b21786fe7c0d: Verifying Checksum
+b21786fe7c0d: Download complete
+aa8ae8202b42: Verifying Checksum
+aa8ae8202b42: Download complete
+cbdbe7a5bc2a: Verifying Checksum
+cbdbe7a5bc2a: Download complete
+6b1c37303e2d: Verifying Checksum
+6b1c37303e2d: Download complete
+cbdbe7a5bc2a: Pull complete
+aa8ae8202b42: Pull complete
+68296e6645b2: Verifying Checksum
+68296e6645b2: Download complete
+b21786fe7c0d: Pull complete
+787be8e21c02: Verifying Checksum
+787be8e21c02: Download complete
+68296e6645b2: Pull complete
+6b1c37303e2d: Pull complete
+787be8e21c02: Pull complete
+Digest: sha256:b918b81939a1076dce89d142c0764c2c3cb93858f56ecf4f04ad0387338e77aa
+Status: Downloaded newer image for jekyll/builder:latest
+
+[!] There was an error parsing `Gemfile`: wrong number of arguments (given 0, expected 1+). Bundler cannot continue.
+
+ #  from /srv/jekyll/Gemfile:1
+ #  -------------------------------------------
+ >  gem
+ #  -------------------------------------------
+Error: Process completed with exit code 4.
