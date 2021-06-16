@@ -1,0 +1,12 @@
+{
+  "success": true,
+  "errors": [],
+  "messages": [],
+  "result": [
+    {
+      "name": "myBinding",
+      "type": "kv_namespace",
+      "namespace_id": "0f2ac74b498b48028cb68387c421e279"
+    }
+  ]
+}
