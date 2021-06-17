@@ -1,0 +1,15 @@
+Architectures: amd64, arm32v6, arm32v7, arm64v8, i386, ppc64le, s390x
+GitCommit: 517c64f87e6661366b415df3f2273c76cea428b0
+Directory: 10/alpine
+Tags: 9.6.22-buster, 9.6-buster, 9-buster
+Architectures: amd64, arm32v5, arm32v7, arm64v8, i386, mips64le, ppc64le, s390x
+GitCommit: 517c64f87e6661366b415df3f2273c76cea428b0
+Directory: 9.6/buster
+Tags: 9.6.22, 9.6, 9, 9.6.22-stretch, 9.6-stretch, 9-stretch
+Architectures: amd64, arm32v5, arm32v7, arm64v8, i386
+GitCommit: 517c64f87e6661366b415df3f2273c76cea428b0
+Directory: 9.6/stretch
+Tags: 9.6.22-alpine, 9.6-alpine, 9-alpine
+Architectures: amd64, arm32v6, arm32v7, arm64v8, i386, ppc64le, s390x
+GitCommit: 517c64f87e6661366b415df3f2273c76cea428b0
+Directory: 9.6/alpine
