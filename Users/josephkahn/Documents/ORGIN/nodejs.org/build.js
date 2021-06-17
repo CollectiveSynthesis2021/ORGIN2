@@ -1,0 +1,7 @@
+const layouts = require('metalsmith-layouts')
+const markdown = require('metalsmith-markdown')
+const prism = require('metalsmith-prism')
+const permalinks = require('@metalsmith/permalinks')
+const pagination = require('metalsmith-yearly-pagination')
+const defaultsDeep = require('lodash.defaultsdeep')
+const autoprefixer = require('autoprefixer')
