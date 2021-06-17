@@ -1,0 +1,7 @@
+termdef
+          id      ID      #REQUIRED
+          name    CDATA   #IMPLIED>
+<!ATTLIST list
+          type    (bullets|ordered|glossary)  "ordered">
+<!ATTLIST form
+          method  CDATA   #FIXED "POST">
