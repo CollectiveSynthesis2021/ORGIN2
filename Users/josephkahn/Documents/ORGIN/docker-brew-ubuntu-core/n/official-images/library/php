@@ -1,0 +1,15 @@
+Architectures: amd64, arm32v6, arm32v7, arm64v8, i386, ppc64le, s390x
+GitCommit: a82fd9b02446334f3bfe2d521263fcee0888a607
+Directory: 7.3/alpine3.14/zts
+Tags: 7.3.28-cli-alpine3.13, 7.3-cli-alpine3.13, 7.3.28-alpine3.13, 7.3-alpine3.13
+Architectures: amd64, arm32v6, arm32v7, arm64v8, i386, ppc64le, s390x
+GitCommit: a82fd9b02446334f3bfe2d521263fcee0888a607
+Directory: 7.3/alpine3.13/cli
+Tags: 7.3.28-fpm-alpine3.13, 7.3-fpm-alpine3.13
+Architectures: amd64, arm32v6, arm32v7, arm64v8, i386, ppc64le, s390x
+GitCommit: a82fd9b02446334f3bfe2d521263fcee0888a607
+Directory: 7.3/alpine3.13/fpm
+Tags: 7.3.28-zts-alpine3.13, 7.3-zts-alpine3.13
+Architectures: amd64, arm32v6, arm32v7, arm64v8, i386, ppc64le, s390x
+GitCommit: a82fd9b02446334f3bfe2d521263fcee0888a607
+Directory: 7.3/alpine3.13/zts
